@@ -54,7 +54,7 @@ I am developing my data analytics skills through practical projects and internsh
 
 ## 📫 Connect With Me
 
-- **GitHub:** [My GitHub Profile](https://github.com/)
+- **GitHub:** https://github.com/Prajwal-VH
 - **LinkedIn:** www.linkedin.com/in/prajwal-veerendra
 - **Email:** prajwalvh01@gmail.com
 
